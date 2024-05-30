@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+}
+.wrapper {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  border: 2px solid black;
+  width: fit-content;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+
+.light {
+  width: 25px;
+  height: 20px;
+  border-radius: 50%;
+  padding: 8px;
+  border: 1px solid goldenrod;
+}
